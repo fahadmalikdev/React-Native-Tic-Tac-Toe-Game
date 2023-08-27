@@ -1,3 +1,5 @@
+![tic-tac-toe-react-native-screenshot](https://github.com/fahadmalikdev/React-Native-Tic-Tac-Toe-Game/assets/33700606/4d0bfa11-607a-40f2-8d72-97d92a9bd7b9)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
